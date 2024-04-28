@@ -1,0 +1,902 @@
+[
+    {
+        "image no": 1,
+        "original image size": 65164,
+        "post compression size": 4101,
+        "bandwidth savings percentage": 93.70664784236695
+    },
+    {
+        "image no": 2,
+        "original image size": 137806,
+        "post compression size": 9759,
+        "bandwidth savings percentage": 92.91830544388489
+    },
+    {
+        "image no": 3,
+        "original image size": 544044,
+        "post compression size": 23044,
+        "bandwidth savings percentage": 95.76431318055157
+    },
+    {
+        "image no": 4,
+        "original image size": 58140,
+        "post compression size": 5711,
+        "bandwidth savings percentage": 90.17715858273134
+    },
+    {
+        "image no": 5,
+        "original image size": 438440,
+        "post compression size": 43657,
+        "bandwidth savings percentage": 90.04265121795456
+    },
+    {
+        "image no": 6,
+        "original image size": 383964,
+        "post compression size": 27042,
+        "bandwidth savings percentage": 92.95715223302184
+    },
+    {
+        "image no": 7,
+        "original image size": 319010,
+        "post compression size": 36592,
+        "bandwidth savings percentage": 88.52951318140498
+    },
+    {
+        "image no": 8,
+        "original image size": 107344,
+        "post compression size": 3702,
+        "bandwidth savings percentage": 96.5512744075123
+    },
+    {
+        "image no": 9,
+        "original image size": 832434,
+        "post compression size": 62361,
+        "bandwidth savings percentage": 92.5085952760219
+    },
+    {
+        "image no": 10,
+        "original image size": 367340,
+        "post compression size": 29850,
+        "bandwidth savings percentage": 91.87401317580444
+    },
+    {
+        "image no": 11,
+        "original image size": 298202,
+        "post compression size": 23024,
+        "bandwidth savings percentage": 92.2790591612397
+    },
+    {
+        "image no": 12,
+        "original image size": 12920,
+        "post compression size": 501,
+        "bandwidth savings percentage": 96.12229102167183
+    },
+    {
+        "image no": 13,
+        "original image size": 207662,
+        "post compression size": 12277,
+        "bandwidth savings percentage": 94.08798913619246
+    },
+    {
+        "image no": 14,
+        "original image size": 1008898,
+        "post compression size": 11038,
+        "bandwidth savings percentage": 98.90593499045494
+    },
+    {
+        "image no": 15,
+        "original image size": 265180,
+        "post compression size": 24326,
+        "bandwidth savings percentage": 90.82660834150388
+    },
+    {
+        "image no": 16,
+        "original image size": 157863,
+        "post compression size": 15380,
+        "bandwidth savings percentage": 90.25737506572155
+    },
+    {
+        "image no": 17,
+        "original image size": 43226,
+        "post compression size": 4518,
+        "bandwidth savings percentage": 89.54795724795262
+    },
+    {
+        "image no": 18,
+        "original image size": 21906,
+        "post compression size": 967,
+        "bandwidth savings percentage": 95.58568428740985
+    },
+    {
+        "image no": 19,
+        "original image size": 7166,
+        "post compression size": 325,
+        "bandwidth savings percentage": 95.46469439017584
+    },
+    {
+        "image no": 20,
+        "original image size": 627694,
+        "post compression size": 50633,
+        "bandwidth savings percentage": 91.93348988519884
+    },
+    {
+        "image no": 21,
+        "original image size": 66190,
+        "post compression size": 2119,
+        "bandwidth savings percentage": 96.7986100619429
+    },
+    {
+        "image no": 22,
+        "original image size": 324169,
+        "post compression size": 16405,
+        "bandwidth savings percentage": 94.93936804567987
+    },
+    {
+        "image no": 23,
+        "original image size": 301472,
+        "post compression size": 17411,
+        "bandwidth savings percentage": 94.22467094788239
+    },
+    {
+        "image no": 24,
+        "original image size": 111622,
+        "post compression size": 3797,
+        "bandwidth savings percentage": 96.59834082886886
+    },
+    {
+        "image no": 25,
+        "original image size": 35310,
+        "post compression size": 3169,
+        "bandwidth savings percentage": 91.02520532427074
+    },
+    {
+        "image no": 26,
+        "original image size": 452932,
+        "post compression size": 48465,
+        "bandwidth savings percentage": 89.29971828000672
+    },
+    {
+        "image no": 27,
+        "original image size": 194650,
+        "post compression size": 10675,
+        "bandwidth savings percentage": 94.51579758540971
+    },
+    {
+        "image no": 28,
+        "original image size": 104094,
+        "post compression size": 8897,
+        "bandwidth savings percentage": 91.45291755528658
+    },
+    {
+        "image no": 29,
+        "original image size": 78574,
+        "post compression size": 5463,
+        "bandwidth savings percentage": 93.04731845139614
+    },
+    {
+        "image no": 30,
+        "original image size": 35670,
+        "post compression size": 5515,
+        "bandwidth savings percentage": 84.53882814690216
+    },
+    {
+        "image no": 31,
+        "original image size": 79944,
+        "post compression size": 8816,
+        "bandwidth savings percentage": 88.97228059641749
+    },
+    {
+        "image no": 32,
+        "original image size": 159846,
+        "post compression size": 10134,
+        "bandwidth savings percentage": 93.66014789234637
+    },
+    {
+        "image no": 33,
+        "original image size": 68304,
+        "post compression size": 17562,
+        "bandwidth savings percentage": 74.28847505270555
+    },
+    {
+        "image no": 34,
+        "original image size": 148794,
+        "post compression size": 20980,
+        "bandwidth savings percentage": 85.89996908477492
+    },
+    {
+        "image no": 35,
+        "original image size": 85230,
+        "post compression size": 3994,
+        "bandwidth savings percentage": 95.31385662325472
+    },
+    {
+        "image no": 36,
+        "original image size": 253486,
+        "post compression size": 22766,
+        "bandwidth savings percentage": 91.01883338724821
+    },
+    {
+        "image no": 37,
+        "original image size": 119714,
+        "post compression size": 16557,
+        "bandwidth savings percentage": 86.16953739746396
+    },
+    {
+        "image no": 38,
+        "original image size": 217900,
+        "post compression size": 39761,
+        "bandwidth savings percentage": 81.75263882514915
+    },
+    {
+        "image no": 39,
+        "original image size": 69736,
+        "post compression size": 4194,
+        "bandwidth savings percentage": 93.9858896409315
+    },
+    {
+        "image no": 40,
+        "original image size": 50896,
+        "post compression size": 11397,
+        "bandwidth savings percentage": 77.60727758566487
+    },
+    {
+        "image no": 41,
+        "original image size": 94008,
+        "post compression size": 18209,
+        "bandwidth savings percentage": 80.63037188324398
+    },
+    {
+        "image no": 42,
+        "original image size": 170438,
+        "post compression size": 22246,
+        "bandwidth savings percentage": 86.94774639458338
+    },
+    {
+        "image no": 43,
+        "original image size": 94823,
+        "post compression size": 13810,
+        "bandwidth savings percentage": 85.43602290583509
+    },
+    {
+        "image no": 44,
+        "original image size": 29866,
+        "post compression size": 2171,
+        "bandwidth savings percentage": 92.73086452822608
+    },
+    {
+        "image no": 45,
+        "original image size": 56538,
+        "post compression size": 3692,
+        "bandwidth savings percentage": 93.46987866567619
+    },
+    {
+        "image no": 46,
+        "original image size": 285910,
+        "post compression size": 41446,
+        "bandwidth savings percentage": 85.50382987653458
+    },
+    {
+        "image no": 47,
+        "original image size": 69118,
+        "post compression size": 10598,
+        "bandwidth savings percentage": 84.66680170143812
+    },
+    {
+        "image no": 48,
+        "original image size": 33062,
+        "post compression size": 3790,
+        "bandwidth savings percentage": 88.53668864557498
+    },
+    {
+        "image no": 49,
+        "original image size": 40154,
+        "post compression size": 3302,
+        "bandwidth savings percentage": 91.77665985954077
+    },
+    {
+        "image no": 50,
+        "original image size": 201460,
+        "post compression size": 8929,
+        "bandwidth savings percentage": 95.56785466097489
+    },
+    {
+        "image no": 51,
+        "original image size": 449365,
+        "post compression size": 49898,
+        "bandwidth savings percentage": 88.89588641750025
+    },
+    {
+        "image no": 52,
+        "original image size": 266989,
+        "post compression size": 24397,
+        "bandwidth savings percentage": 90.86217035158752
+    },
+    {
+        "image no": 53,
+        "original image size": 597704,
+        "post compression size": 31595,
+        "bandwidth savings percentage": 94.71393867198479
+    },
+    {
+        "image no": 54,
+        "original image size": 170943,
+        "post compression size": 17489,
+        "bandwidth savings percentage": 89.76910432132348
+    },
+    {
+        "image no": 55,
+        "original image size": 139364,
+        "post compression size": 13230,
+        "bandwidth savings percentage": 90.50687408512958
+    },
+    {
+        "image no": 56,
+        "original image size": 407926,
+        "post compression size": 43766,
+        "bandwidth savings percentage": 89.27109328652746
+    },
+    {
+        "image no": 57,
+        "original image size": 396209,
+        "post compression size": 13494,
+        "bandwidth savings percentage": 96.59422173650776
+    },
+    {
+        "image no": 58,
+        "original image size": 317509,
+        "post compression size": 23904,
+        "bandwidth savings percentage": 92.47139451165164
+    },
+    {
+        "image no": 59,
+        "original image size": 238508,
+        "post compression size": 38228,
+        "bandwidth savings percentage": 83.97202609556074
+    },
+    {
+        "image no": 60,
+        "original image size": 117011,
+        "post compression size": 8083,
+        "bandwidth savings percentage": 93.09210245190623
+    },
+    {
+        "image no": 61,
+        "original image size": 267634,
+        "post compression size": 45569,
+        "bandwidth savings percentage": 82.973389031289
+    },
+    {
+        "image no": 62,
+        "original image size": 96293,
+        "post compression size": 7502,
+        "bandwidth savings percentage": 92.20919485320843
+    },
+    {
+        "image no": 63,
+        "original image size": 321318,
+        "post compression size": 39122,
+        "bandwidth savings percentage": 87.82452274693607
+    },
+    {
+        "image no": 64,
+        "original image size": 262385,
+        "post compression size": 22840,
+        "bandwidth savings percentage": 91.29523410255922
+    },
+    {
+        "image no": 65,
+        "original image size": 479979,
+        "post compression size": 18945,
+        "bandwidth savings percentage": 96.05295231666385
+    },
+    {
+        "image no": 66,
+        "original image size": 672079,
+        "post compression size": 80493,
+        "bandwidth savings percentage": 88.02328297715
+    },
+    {
+        "image no": 67,
+        "original image size": 493032,
+        "post compression size": 58565,
+        "bandwidth savings percentage": 88.12146067598047
+    },
+    {
+        "image no": 68,
+        "original image size": 305624,
+        "post compression size": 28540,
+        "bandwidth savings percentage": 90.66172813653378
+    },
+    {
+        "image no": 69,
+        "original image size": 381342,
+        "post compression size": 41898,
+        "bandwidth savings percentage": 89.01301194203629
+    },
+    {
+        "image no": 70,
+        "original image size": 206376,
+        "post compression size": 3233,
+        "bandwidth savings percentage": 98.43344187308601
+    },
+    {
+        "image no": 71,
+        "original image size": 90325,
+        "post compression size": 6699,
+        "bandwidth savings percentage": 92.58344865762524
+    },
+    {
+        "image no": 72,
+        "original image size": 321434,
+        "post compression size": 34989,
+        "bandwidth savings percentage": 89.11471717366551
+    },
+    {
+        "image no": 73,
+        "original image size": 298666,
+        "post compression size": 39924,
+        "bandwidth savings percentage": 86.63255944767734
+    },
+    {
+        "image no": 74,
+        "original image size": 185371,
+        "post compression size": 16325,
+        "bandwidth savings percentage": 91.19333660604948
+    },
+    {
+        "image no": 75,
+        "original image size": 142540,
+        "post compression size": 4152,
+        "bandwidth savings percentage": 97.08713343622843
+    },
+    {
+        "image no": 76,
+        "original image size": 228543,
+        "post compression size": 16862,
+        "bandwidth savings percentage": 92.62195735594615
+    },
+    {
+        "image no": 77,
+        "original image size": 374052,
+        "post compression size": 42043,
+        "bandwidth savings percentage": 88.76011891394779
+    },
+    {
+        "image no": 78,
+        "original image size": 313961,
+        "post compression size": 29779,
+        "bandwidth savings percentage": 90.51506397291384
+    },
+    {
+        "image no": 79,
+        "original image size": 181410,
+        "post compression size": 20679,
+        "bandwidth savings percentage": 88.60095915329916
+    },
+    {
+        "image no": 80,
+        "original image size": 430834,
+        "post compression size": 43810,
+        "bandwidth savings percentage": 89.83135035767836
+    },
+    {
+        "image no": 81,
+        "original image size": 230476,
+        "post compression size": 33267,
+        "bandwidth savings percentage": 85.56595914542078
+    },
+    {
+        "image no": 82,
+        "original image size": 282506,
+        "post compression size": 28279,
+        "bandwidth savings percentage": 89.98994711616744
+    },
+    {
+        "image no": 83,
+        "original image size": 331505,
+        "post compression size": 10917,
+        "bandwidth savings percentage": 96.7068370009502
+    },
+    {
+        "image no": 84,
+        "original image size": 250171,
+        "post compression size": 26358,
+        "bandwidth savings percentage": 89.46400661947229
+    },
+    {
+        "image no": 85,
+        "original image size": 529945,
+        "post compression size": 98656,
+        "bandwidth savings percentage": 81.38372850012738
+    },
+    {
+        "image no": 86,
+        "original image size": 391336,
+        "post compression size": 11681,
+        "bandwidth savings percentage": 97.01509700104258
+    },
+    {
+        "image no": 87,
+        "original image size": 122837,
+        "post compression size": 6793,
+        "bandwidth savings percentage": 94.46990727549517
+    },
+    {
+        "image no": 88,
+        "original image size": 149290,
+        "post compression size": 10610,
+        "bandwidth savings percentage": 92.89302699444035
+    },
+    {
+        "image no": 89,
+        "original image size": 147095,
+        "post compression size": 7397,
+        "bandwidth savings percentage": 94.9712770658418
+    },
+    {
+        "image no": 90,
+        "original image size": 274611,
+        "post compression size": 12800,
+        "bandwidth savings percentage": 95.33886115268507
+    },
+    {
+        "image no": 91,
+        "original image size": 75634,
+        "post compression size": 10183,
+        "bandwidth savings percentage": 86.53647830340851
+    },
+    {
+        "image no": 92,
+        "original image size": 91647,
+        "post compression size": 10185,
+        "bandwidth savings percentage": 88.88670660250745
+    },
+    {
+        "image no": 93,
+        "original image size": 195847,
+        "post compression size": 8267,
+        "bandwidth savings percentage": 95.77884777402768
+    },
+    {
+        "image no": 94,
+        "original image size": 597402,
+        "post compression size": 32757,
+        "bandwidth savings percentage": 94.51675756023582
+    },
+    {
+        "image no": 95,
+        "original image size": 376255,
+        "post compression size": 46441,
+        "bandwidth savings percentage": 87.65704110244383
+    },
+    {
+        "image no": 96,
+        "original image size": 188795,
+        "post compression size": 16023,
+        "bandwidth savings percentage": 91.51301676421515
+    },
+    {
+        "image no": 97,
+        "original image size": 342433,
+        "post compression size": 14413,
+        "bandwidth savings percentage": 95.7910014513788
+    },
+    {
+        "image no": 98,
+        "original image size": 243719,
+        "post compression size": 16432,
+        "bandwidth savings percentage": 93.25780919829803
+    },
+    {
+        "image no": 99,
+        "original image size": 564504,
+        "post compression size": 75292,
+        "bandwidth savings percentage": 86.66227342941768
+    },
+    {
+        "image no": 100,
+        "original image size": 186501,
+        "post compression size": 16953,
+        "bandwidth savings percentage": 90.90996831116188
+    },
+    {
+        "image no": 101,
+        "original image size": 175882,
+        "post compression size": 1677,
+        "bandwidth savings percentage": 99.04651982579229
+    },
+    {
+        "image no": 102,
+        "original image size": 24114,
+        "post compression size": 518,
+        "bandwidth savings percentage": 97.85187028282326
+    },
+    {
+        "image no": 103,
+        "original image size": 222205,
+        "post compression size": 12073,
+        "bandwidth savings percentage": 94.56672892149142
+    },
+    {
+        "image no": 104,
+        "original image size": 91646,
+        "post compression size": 3053,
+        "bandwidth savings percentage": 96.668703489514
+    },
+    {
+        "image no": 105,
+        "original image size": 5300287,
+        "post compression size": 43695,
+        "bandwidth savings percentage": 99.17561067919529
+    },
+    {
+        "image no": 106,
+        "original image size": 269548,
+        "post compression size": 29782,
+        "bandwidth savings percentage": 88.95113300785017
+    },
+    {
+        "image no": 107,
+        "original image size": 5547026,
+        "post compression size": 3025,
+        "bandwidth savings percentage": 99.9454662732787
+    },
+    {
+        "image no": 108,
+        "original image size": 432914,
+        "post compression size": 43237,
+        "bandwidth savings percentage": 90.01256600618137
+    },
+    {
+        "image no": 109,
+        "original image size": 286154,
+        "post compression size": 15747,
+        "bandwidth savings percentage": 94.49701908762414
+    },
+    {
+        "image no": 110,
+        "original image size": 805639,
+        "post compression size": 23309,
+        "bandwidth savings percentage": 97.10676866437697
+    },
+    {
+        "image no": 111,
+        "original image size": 46529,
+        "post compression size": 5107,
+        "bandwidth savings percentage": 89.0240495175052
+    },
+    {
+        "image no": 112,
+        "original image size": 4030748,
+        "post compression size": 8649,
+        "bandwidth savings percentage": 99.78542444231195
+    },
+    {
+        "image no": 113,
+        "original image size": 1334358,
+        "post compression size": 13988,
+        "bandwidth savings percentage": 98.95170561423546
+    },
+    {
+        "image no": 114,
+        "original image size": 1518475,
+        "post compression size": 14190,
+        "bandwidth savings percentage": 99.06550980424439
+    },
+    {
+        "image no": 115,
+        "original image size": 919603,
+        "post compression size": 10062,
+        "bandwidth savings percentage": 98.90583219063008
+    },
+    {
+        "image no": 116,
+        "original image size": 596309,
+        "post compression size": 10485,
+        "bandwidth savings percentage": 98.24168342252088
+    },
+    {
+        "image no": 117,
+        "original image size": 2853379,
+        "post compression size": 15165,
+        "bandwidth savings percentage": 99.46852486122594
+    },
+    {
+        "image no": 118,
+        "original image size": 430458,
+        "post compression size": 6842,
+        "bandwidth savings percentage": 98.41053017948325
+    },
+    {
+        "image no": 119,
+        "original image size": 5097328,
+        "post compression size": 26991,
+        "bandwidth savings percentage": 99.47048728274892
+    },
+    {
+        "image no": 120,
+        "original image size": 990421,
+        "post compression size": 11379,
+        "bandwidth savings percentage": 98.85109463551358
+    },
+    {
+        "image no": 121,
+        "original image size": 184054,
+        "post compression size": 16677,
+        "bandwidth savings percentage": 90.93907222880242
+    },
+    {
+        "image no": 122,
+        "original image size": 7090829,
+        "post compression size": 7103,
+        "bandwidth savings percentage": 99.89982835575361
+    },
+    {
+        "image no": 123,
+        "original image size": 12899642,
+        "post compression size": 35278,
+        "bandwidth savings percentage": 99.72651954217025
+    },
+    {
+        "image no": 124,
+        "original image size": 894468,
+        "post compression size": 18902,
+        "bandwidth savings percentage": 97.88678857153079
+    },
+    {
+        "image no": 125,
+        "original image size": 3552786,
+        "post compression size": 29359,
+        "bandwidth savings percentage": 99.17363443787495
+    },
+    {
+        "image no": 126,
+        "original image size": 15581027,
+        "post compression size": 26192,
+        "bandwidth savings percentage": 99.83189811557351
+    },
+    {
+        "image no": 127,
+        "original image size": 342649,
+        "post compression size": 42324,
+        "bandwidth savings percentage": 87.6480013074604
+    },
+    {
+        "image no": 128,
+        "original image size": 9562742,
+        "post compression size": 9074,
+        "bandwidth savings percentage": 99.90511089810852
+    },
+    {
+        "image no": 129,
+        "original image size": 4156903,
+        "post compression size": 14857,
+        "bandwidth savings percentage": 99.64259449883724
+    },
+    {
+        "image no": 130,
+        "original image size": 17818582,
+        "post compression size": 25578,
+        "bandwidth savings percentage": 99.8564532239434
+    },
+    {
+        "image no": 131,
+        "original image size": 3371569,
+        "post compression size": 21078,
+        "bandwidth savings percentage": 99.37483112461884
+    },
+    {
+        "image no": 132,
+        "original image size": 1001280,
+        "post compression size": 49847,
+        "bandwidth savings percentage": 95.02167225950782
+    },
+    {
+        "image no": 133,
+        "original image size": 140059,
+        "post compression size": 10865,
+        "bandwidth savings percentage": 92.24255492328233
+    },
+    {
+        "image no": 134,
+        "original image size": 3153330,
+        "post compression size": 14760,
+        "bandwidth savings percentage": 99.53192339526787
+    },
+    {
+        "image no": 135,
+        "original image size": 2099306,
+        "post compression size": 26457,
+        "bandwidth savings percentage": 98.73972636671357
+    },
+    {
+        "image no": 136,
+        "original image size": 297692,
+        "post compression size": 27751,
+        "bandwidth savings percentage": 90.67794902113594
+    },
+    {
+        "image no": 137,
+        "original image size": 113877,
+        "post compression size": 5551,
+        "bandwidth savings percentage": 95.12544236325158
+    },
+    {
+        "image no": 138,
+        "original image size": 951221,
+        "post compression size": 43304,
+        "bandwidth savings percentage": 95.44753532564988
+    },
+    {
+        "image no": 139,
+        "original image size": 561377,
+        "post compression size": 4682,
+        "bandwidth savings percentage": 99.16597936858831
+    },
+    {
+        "image no": 140,
+        "original image size": 1969156,
+        "post compression size": 18295,
+        "bandwidth savings percentage": 99.0709217553104
+    },
+    {
+        "image no": 141,
+        "original image size": 798521,
+        "post compression size": 8031,
+        "bandwidth savings percentage": 98.99426564861788
+    },
+    {
+        "image no": 142,
+        "original image size": 2172777,
+        "post compression size": 71048,
+        "bandwidth savings percentage": 96.73008320688226
+    },
+    {
+        "image no": 143,
+        "original image size": 603710,
+        "post compression size": 16343,
+        "bandwidth savings percentage": 97.29290553411406
+    },
+    {
+        "image no": 144,
+        "original image size": 6060422,
+        "post compression size": 53732,
+        "bandwidth savings percentage": 99.11339507380839
+    },
+    {
+        "image no": 145,
+        "original image size": 130907,
+        "post compression size": 2005,
+        "bandwidth savings percentage": 98.46837831437585
+    },
+    {
+        "image no": 146,
+        "original image size": 297955,
+        "post compression size": 11756,
+        "bandwidth savings percentage": 96.05443775066705
+    },
+    {
+        "image no": 147,
+        "original image size": 486823,
+        "post compression size": 22889,
+        "bandwidth savings percentage": 95.29829116537222
+    },
+    {
+        "image no": 148,
+        "original image size": 7132704,
+        "post compression size": 14525,
+        "bandwidth savings percentage": 99.79636053872416
+    },
+    {
+        "image no": 149,
+        "original image size": 74706,
+        "post compression size": 2759,
+        "bandwidth savings percentage": 96.30685620967526
+    },
+    {
+        "image no": 150,
+        "original image size": 3513745,
+        "post compression size": 25004,
+        "bandwidth savings percentage": 99.28839457615734
+    }
+]
